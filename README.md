@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## 🔭 I'm currently working on Web developer 🧑‍💻
+#### 🔭 I'm currently working on Web developer 🧑‍💻
 
-## I like traveling, driving, all about car!✈️🚘
+#### I like traveling, driving, all about car!✈️🚘
 
 ### 💻 Skills
 Language : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
