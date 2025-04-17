@@ -1,35 +1,41 @@
-### Hi there 👋
+# 👋 Hi there, I'm Seungjoo Moon (문승주)
 
-#### 🔭 I'm currently working on Web developer 🧑‍💻
+👨‍💻 Java Developer at **KTis**  
+🚀 Running a side project team called **CodeCraft**  
+> *CodeCraft aims to create simple and helpful web services that provide new value through real-world operation and continuous improvement.*
 
-#### I like traveling, driving, all about car!✈️🚘
+🚗 I love cars, ✈️ traveling, and 🛠️ building new and useful services!
 
-### 💻 Skills
-Language : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+---
 
-FE : <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"> <img src="https://img.shields.io/badge/Backbone.js-0071B5?style=for-the-badge&logo=Backbone.js&logoColor=white">
+## 💼 Tech Stack
 
-BE: <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=CodeIgniter&logoColor=white">
+- 🌱 Spring Boot, JPA  
+- 🐘 PostgreSQL  
+- 🐍 Python  
+- 🐘 PHP (CodeIgniter 4)
 
-RDBMS : <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+---
 
-### 🙇‍♂️ Social
+## 🧪 Currently Working On
 
-https://seungjoomoon.github.io/resume/
+- Building and operating lightweight tools and platforms with **CodeCraft**
+- Exploring practical service ideas for real users
 
-https://nick901106.tistory.com/
+---
 
-<!--
-**SEUNGJOOMOON/SEUNGJOOMOON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Websites
 
-Here are some ideas to get you started:
+- 🔗 [ayo.pe.kr](https://ayo.pe.kr)  
+  A real estate information platform that offers actual transaction data and detailed local infrastructure insights across Korea.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔗 [thecareer23.co.kr](https://thecareer23.co.kr)  
+  A job information portal that provides daily updates on new job postings to help users stay ahead in their career search.
+
+- 🔗 [114-service.co.kr](https://114-service.co.kr)  
+  A public data-based platform delivering useful everyday information across various categories like education, transportation, and facilities.
+
+
+---
+
+_Thanks for stopping by! 😊_
