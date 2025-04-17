@@ -34,6 +34,19 @@
 
 ---
 
+## 🎓 Education
+
+- **Graduate School of Information and Communication** – M.S. in IT Convergence  
+  > 📍 정보통신대학원 – IT컨버전스 전공
+
+- **Korea National Open University** – B.S. in Computer Science  
+  > 📍 한국방송통신대학교 – 컴퓨터과학 전공
+
+- **Junior College of Technology** – A.A. in Computer Information  
+  > 📍 전문대학교 – 컴퓨터정보 전공
+  
+---
+
 ## 🧭 Career History
 
 - **KT Group**  
