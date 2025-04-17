@@ -40,11 +40,11 @@
   A real estate information platform that offers actual transaction data and detailed local infrastructure insights across Korea.  
   > 📍 전국 아파트 실거래가와 지역 생활 인프라 정보를 제공하는 부동산 플랫폼입니다.
 
-- 🔗 [thecareer23.co.kr](https://thecareer23.co.kr)  
+- 🔗 [더커리어23](https://thecareer23.co.kr)  
   A job information portal that provides daily updates on new job postings to help users stay ahead in their career search.  
   > 📍 매일 업데이트되는 채용 공고를 제공하는 커리어 정보 포털입니다.
 
-- 🔗 [114-service.co.kr](https://114-service.co.kr)  
+- 🔗 [라이프114](https://114-service.co.kr)  
   A public data-based platform delivering useful everyday information across various categories like education, transportation, and facilities.  
   > 📍 다양한 생활 공공데이터를 안내하는 정보 플랫폼입니다.
 
