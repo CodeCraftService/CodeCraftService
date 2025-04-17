@@ -1,7 +1,7 @@
-# 👋 Hi there, I'm Seungjoo Moon
+# 👋 Hi there, I'm Seungjoo Moon (문승주)
 
-👨‍💻 Java Developer at **KTis**  
-> 📍 KTis에서 근무 중인 Java 개발자입니다.
+👨‍💻 Java Developer at **a KT Group company**  
+> 📍 KT 그룹사에서 Java 개발자로 근무 중입니다.
 
 🚀 Running a side project team called **CodeCraft**  
 > 📍 CodeCraft라는 이름으로 사이드 프로젝트 팀을 운영하고 있습니다.
@@ -31,6 +31,30 @@
 
 - Exploring practical service ideas for real users  
 > 📍 실제 사용자에게 유익한 서비스 아이디어를 실험하고 있습니다.
+
+---
+
+## 🧭 Career History
+
+- **KT Group**  
+  Java backend development for internal enterprise systems  
+  > 📍 KT 그룹사 내부 시스템의 Java 백엔드 개발 담당
+
+- **Twave**  
+  Developed Spring APIs for transaction processing and settlement systems  
+  > 📍 거래 처리 및 정산 관련 Spring API 개발
+
+- **YG PLUS**  
+  Built and managed music content and settlement management platforms  
+  > 📍 음원 관리 시스템 및 정산 관리 시스템 담당
+
+- **Soribada**  
+  Developed and maintained the Soribada web frontend  
+  > 📍 소리바다 웹 프론트엔드 개발
+
+- **Thewill System**  
+  Participated in various public sector SI projects  
+  > 📍 공공기관 대상 SI 프로젝트 수행
 
 ---
 
