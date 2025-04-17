@@ -52,8 +52,7 @@
 
 ## 📫 Contact
 
-- Blog: [https://yourblog.com](https://yourblog.com)  
-- GitHub: [@your-github-id](https://github.com/your-github-id)  
+- E-mail: director@code-craft-service.co.kr
 > 📍 더 많은 정보나 연락은 위 링크를 참고해주세요.
 
 ---
