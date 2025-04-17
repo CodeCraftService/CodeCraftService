@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Seungjoo Moon (문승주)
+# 👋 Hi there, I'm Seungjoo Moon
 
 👨‍💻 Java Developer at **a KT Group company**  
 > 📍 KT 그룹사에서 Java 개발자로 근무 중입니다.
