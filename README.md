@@ -36,7 +36,7 @@
 
 ## 🌐 Websites
 
-- 🔗 [ayo.pe.kr](https://ayo.pe.kr)  
+- 🔗 [내 집, 찾아요!](https://ayo.pe.kr)  
   A real estate information platform that offers actual transaction data and detailed local infrastructure insights across Korea.  
   > 📍 전국 아파트 실거래가와 지역 생활 인프라 정보를 제공하는 부동산 플랫폼입니다.
 
@@ -46,14 +46,13 @@
 
 - 🔗 [114-service.co.kr](https://114-service.co.kr)  
   A public data-based platform delivering useful everyday information across various categories like education, transportation, and facilities.  
-  > 📍 교육, 교통, 시설 등 다양한 생활 공공데이터를 안내하는 정보 플랫폼입니다.
+  > 📍 다양한 생활 공공데이터를 안내하는 정보 플랫폼입니다.
 
 ---
 
 ## 📫 Contact
 
 - E-mail: director@code-craft-service.co.kr
-> 📍 더 많은 정보나 연락은 위 링크를 참고해주세요.
 
 ---
 
