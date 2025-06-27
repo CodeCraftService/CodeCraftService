@@ -73,9 +73,9 @@
 
 ## 🌐 Websites
 
-- 🔗 [내 집, 찾아요!](https://ayo.pe.kr)  
-  A real estate information platform that offers actual transaction data and detailed local infrastructure insights across Korea.  
-  > 📍 전국 아파트 실거래가와 지역 생활 인프라 정보를 제공하는 부동산 플랫폼입니다.
+- 🔗 [찾아요! 홈즈](https://ayo.pe.kr)  
+  A real estate platform that provides nationwide data on apartment, villa, and officetel transaction prices, pre-sale information, and local living infrastructure. 
+  > 📍 전국 아파트, 빌라, 오피스텔 실거래가와 분양정보 및 지역 생활 인프라 정보를 제공하는 부동산 플랫폼입니다.
 
 - 🔗 [더커리어23](https://thecareer23.co.kr)  
   A job information portal that provides daily updates on new job postings to help users stay ahead in their career search.  
