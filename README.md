@@ -3,8 +3,8 @@
 👨‍💻 Java Developer at **a KT Group company**  
 > 📍 KT 그룹사에서 Java 개발자로 근무 중입니다.
 
-🚀 Running a side project team called **CodeCraft**  
-> 📍 CodeCraft라는 이름으로 사이드 프로젝트 팀을 운영하고 있습니다.
+🚀 Running a one-person IT service company called **CodeCraft**  
+> 📍 CodeCraft라는 이름으로 1인 IT 서비스 회사를 운영하고 있습니다.
 
 > *CodeCraft aims to create simple and helpful web services that provide new value through real-world operation and continuous improvement.*  
 > 📍 CodeCraft는 사용자에게 도움이 되는 간편한 웹 서비스를 만들고, 실제 운영을 통해 새로운 가치를 창출하는 것을 목표로 합니다.
@@ -81,10 +81,18 @@
   A job information portal that provides daily updates on new job postings to help users stay ahead in their career search.  
   > 📍 매일 업데이트되는 채용 공고를 제공하는 커리어 정보 포털입니다.
 
-- 🔗 [라이프114](https://114-service.co.kr)  
-  A public data-based platform delivering useful everyday information across various categories like education, transportation, and facilities.  
-  > 📍 다양한 생활 공공데이터를 안내하는 정보 플랫폼입니다.
 
+- 🔗 [찾아요! 마켓](https://store.ayo.pe.kr)
+  A product curation service based on Coupang Partners.
+  > 📍 쿠팡파트너스 기반 상품 큐레이션 서비스입니다.
+
+- 🔗 [테스트그램](https://testgram.ayo.pe.kr)
+  Provides various psychology tests like MBTI.
+  > 📍 MBTI 등 다양한 심리테스트를 제공합니다.
+
+- 🔗 [지역누리](https://local.114-service.co.kr)
+  A local information platform offering community-based services.
+  > 📍 지역 기반 생활정보 플랫폼입니다.
 ---
 
 ## 📫 Contact
